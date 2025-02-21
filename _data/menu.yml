@@ -8,7 +8,7 @@ entries:
       - title: "Download the <a href='https://gcwilkins.com/s/jcPd25DAWT7zL84'>PDF version</a>.
       - title: Or just <a href='mailto:hello@gcwilkins.com'>email me</a>.
 
-  - title: all posts
+  - title: some tests
     post_list:
       limit: 5
       show_more: true
